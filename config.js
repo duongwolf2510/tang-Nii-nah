@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Boo à!',
-    introDesc: `Hôm nay là kỉ niệm 3 tháng hai đứa mình yêu nhau
-    Nên là anh có làm cái Web nhỏ nhắn này để dành tặng riêng em
-    Chúc cho hai đứa mình tiếp tục yêu nhau hơn cả trước và luôn cố gắng vì nhau nhé ☺☺
-    Cái này không hẳn là đẹp nhất nhưng nó là tình cảm của anh dành cho em 😅`,
+    introDesc: `Hôm nay là kỉ niệm 3 tháng của chúng mình
+    Nên anh đã làm món quà nhỏ để dành tặng riêng em
+    Mong hai đứa mình sẽ tiếp tục yêu nhau nhiều hơn ☺☺
+    Rất mừng vì 3 tháng trước đã va phải em 😅`,
     btnIntro: 'Happy 3 months anniversary 🎉🎉',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
