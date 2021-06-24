@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Hôm nay là kỉ niệm 3 tháng của chúng mình
     Nên anh đã làm món quà nhỏ để dành tặng riêng em
     Mong hai đứa mình sẽ tiếp tục yêu nhau nhiều hơn 😊
-    Rất mừng vì 3 tháng trước đã va phải em 😅`,
+    Rất vui vì 3 tháng trước đã làm quen với em 😅`,
     btnIntro: 'Happy 3 months anniversary 🎉🎉',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
