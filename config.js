@@ -5,7 +5,7 @@ const CONFIG = {
     Món quà tuy không phải là tuyệt nhất 😅      
     Nhưng mà nó là tình cảm của anh dành cho em 😊`,
     btnIntro: 'Happy 3 months anniversary 🎉🎉',
-    title: 'Có nhạc bên cạnh ai không phiêu Có em bên cạnh yêu không phai 😙',
+    title: 'Có nhạc bên cạnh ai không phiêu 🤗 Có em bên cạnh yêu không phai 😙',
     desc: 'Nhưng mà anh hỏi thật nhé, 3 tháng qua em có cảm xúc như nào với anh?',
     btnYes: 'Em ghét anh nhiều lắm 😂',
     btnNo: 'Em yêu anh rất nhiều 😜',
